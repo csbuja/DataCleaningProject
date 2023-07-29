@@ -23,7 +23,7 @@ The final project aims to integrate the diverse tools and techniques taught thro
 
 (4.) Develop a relational database schema - identify the *logical integrity constraints* (ICs) after the data is loaded into a SQLite database. Check the ICs that we have identified. Then a comparison is drawn for before/after the data cleaning for IC Violations.
 
-(4.) Create a workflow model - used draw.io to show the workflow model pictorally.
+(5.) Create a workflow model - used draw.io to show the workflow model pictorally.
 
 ## The Data
 
