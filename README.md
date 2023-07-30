@@ -1,6 +1,6 @@
 # CS513: Theory & Practice of Data Cleaning Project
 
-#### MCS-DS program at the University of Illinois at Urbana-Champaign – Fall 2023
+#### MCS-DS program at the University of Illinois at Urbana-Champaign – Summer 2023
 
 ## Team
 
